@@ -1,0 +1,4 @@
+project: textql
+target: textql-sqlparser
+cmds:
+  - cmd: ./sqlparser-fuzz.libfuzzer
