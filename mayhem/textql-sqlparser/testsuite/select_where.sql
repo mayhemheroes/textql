@@ -1,0 +1,1 @@
+SELECT name, age FROM people WHERE age > 21 ORDER BY age DESC LIMIT 10
